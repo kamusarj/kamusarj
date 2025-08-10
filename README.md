@@ -38,18 +38,18 @@
 ---
 
 ## 📌 Activities:
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamusarj&langs_count=10&layout=compact&theme=tokyonight&hide_border=false&custom_title=Top%20Languages%20Used" alt="Top languages" width="400" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=kamusarj&show_icons=true&theme=tokyonight&hide_border=false&custom_title=GitHub%20Activity" alt="GitHub stats" width="400" />
-
-</td>
-<td>
-
-</td>
-</tr>
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamusarj&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="kamusarj"           width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=kamusarj&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github"                   alt="kamusarj" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
 </table>
+
 
