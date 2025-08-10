@@ -41,8 +41,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamusarj&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20Used%20Languages" alt="kamusarj" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=kamusarj&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Activity" alt="kamusarj" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamusarj&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=kamusarj&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -51,6 +51,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
