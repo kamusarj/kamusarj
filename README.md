@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://avatars.githubusercontent.com/u/143889310?v=4" width="200"> -->
 <img align="right" width="100" src="https://github.com/kamusarj.png" />
 
-# Hi 👋, I'm Blinh  
+Hi 👋, I'm Blinh  
  
 - 🌱 I’m currently learning **Machine Learning, Computer Vision**  
 - 💬 Ask me about **Python, Django, AI, Deep Learning**  
