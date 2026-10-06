@@ -1,57 +1,135 @@
-<!-- <img align="right" src="https://avatars.githubusercontent.com/u/143889310?v=4" width="200"> -->
-<img align="right" width="200" src="https://github.com/kamusarj.png" />
+<div align="center">
 
-Hi 👋, I'm Blinh  
- 
-- 🌱 I’m currently learning **Machine Learning, Computer Vision**  
-- 💬 Ask me about **Python, Django, AI, Deep Learning**  
-- 📫 How to reach me: **01232106558linh@gmail.com**  
+# Hi, I'm Bùi Hoàng Linh 👋
 
----
+### AI Engineer · Applied AI · LLMs · RAG
 
-## 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/blinh242004)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/kamusarj)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hoangbuilinh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=01232106558linh@gmail.com)
+I build practical AI systems — from **LLM-powered applications and RAG pipelines** to **machine learning systems and backend APIs**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hoanglinh24.io.vn-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hoanglinh24.io.vn/)
+[![GitHub](https://img.shields.io/badge/GitHub-kamusarj-181717?style=for-the-badge&logo=github)](https://github.com/kamusarj)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:01232106558linh@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-blinh242004-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/blinh242004)
+
+</div>
 
 ---
 
-## 🛠 Tech Stacks:
-<p align="left">
-<img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" title="Google Colab"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" title="Scikit-learn"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="48" title="NumPy"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="48" title="Pandas"/>
-<img src="https://img.icons8.com/color/48/000000/opencv.png" title="OpenCV"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" title="TensorFlow"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="48" title="PyTorch"/>
-<img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" title="SQL Server"/>
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="C#"/>
-<img src="https://img.icons8.com/color/48/000000/net-framework.png" title=".NET"/>
-<img src="https://img.icons8.com/color/48/000000/asp.png" title="ASP.NET"/>
+## 👨‍💻 About Me
+
+- 🎓 Computer Science graduate interested in **AI Engineering & Applied AI**
+- 🤖 Working with **LLMs, RAG, AI Agents, Machine Learning and Deep Learning**
+- ⚙️ Interested in building AI features as **real software products**, not just model demos
+- 🔬 Exploring **model optimization, evaluation, VLA and robotics**
+- 🚀 Currently building and improving practical AI systems such as **Deka**
+- 🌐 More about me: **[hoanglinh24.io.vn](https://hoanglinh24.io.vn/)**
+
+---
+
+## 🚀 Featured Projects
+
+### 📝 Deka — AI-powered Exam Generation Platform
+
+AI-powered platform designed to help teachers generate and manage exams using their own teaching materials.
+
+- RAG pipeline over teacher-uploaded documents
+- Multi-LLM integration
+- Structured question and answer generation
+- Exam generation based on cognitive levels
+- Backend APIs and database integration
+
+**Tech:** Python · FastAPI · PostgreSQL · RAG · LLM APIs · Docker
+
+🌐 **Live:** [deka.hoanglinh24.io.vn](https://deka.hoanglinh24.io.vn/)  
+🔗 **More projects:** [hoanglinh24.io.vn](https://hoanglinh24.io.vn/)
+
+---
+
+### 🔍 UEBA — User & Entity Behavior Analytics
+
+AI/ML project focused on analyzing user and entity behavior to identify abnormal behavioral patterns and support anomaly detection.
+
+- Behavioral data processing and feature engineering
+- Machine learning based anomaly analysis
+- Model evaluation and experimentation
+- Practical AI system development
+
+**Tech:** Python · PyTorch · Machine Learning · Data Analysis
+
+🔗 **More details:** [Portfolio](https://hoanglinh24.io.vn/)
+
+---
+
+## 🛠 Tech Stack
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+</p>
+
+### LLM / Applied AI
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vector_Search-008080?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square"/>
+</p>
+
+### Backend & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+### Data & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Activities:
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamusarj&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=kamusarj&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="developer gif" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
 
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamusarj&show_icons=true&hide_border=true&bg_color=00000000&title_color=179fa3&text_color=888888&icon_color=179fa3" />
 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamusarj&layout=compact&hide_border=true&bg_color=00000000&title_color=179fa3&text_color=888888&langs_count=8" />
 
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in **AI Engineer / Applied AI opportunities** and projects involving **LLMs, RAG, AI Agents, Machine Learning and intelligent software systems**.
+
+🌐 **Portfolio:** [hoanglinh24.io.vn](https://hoanglinh24.io.vn/)  
+📧 **Email:** [01232106558linh@gmail.com](mailto:01232106558linh@gmail.com)  
+💻 **GitHub:** [github.com/kamusarj](https://github.com/kamusarj)  
+▶️ **YouTube:** [@hoangbuilinh](https://www.youtube.com/@hoangbuilinh)
+
+---
+
+<div align="center">
+
+### Building AI that works beyond the notebook.
+
+</div>
