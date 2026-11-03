@@ -105,18 +105,6 @@ AI/ML project focused on analyzing user and entity behavior to identify abnormal
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamusarj&show_icons=true&hide_border=true&bg_color=00000000&title_color=179fa3&text_color=888888&icon_color=179fa3" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamusarj&layout=compact&hide_border=true&bg_color=00000000&title_color=179fa3&text_color=888888&langs_count=8" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm interested in **AI Engineer / Applied AI opportunities** and projects involving **LLMs, RAG, AI Agents, Machine Learning and intelligent software systems**.
